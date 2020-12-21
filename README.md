@@ -31,3 +31,6 @@
   <li>Лента новостей подписок</li>
   <li>Поиск пользователей и поиск по глобальной ленте</li>
 </ul>
+
+<h1>Roadmap</h1><br>
+![alt text](/img-readme/roadmap.jpg "Roadmap")
