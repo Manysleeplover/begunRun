@@ -33,4 +33,4 @@
 </ul>
 
 <h1>Roadmap</h1><br>
-![alt text](/img-readme/roadmap.jpg "Roadmap")
+![alt text](img-readme/roadmap.jpg "Roadmap")
