@@ -33,4 +33,4 @@
 </ul>
 
 <h1>Roadmap</h1><br>
-<img src="/img-readme/roadmap.jpg" width="350" title="hover text">
+<img src="/img-readme/roadmap.jpg" width="90%" title="roadmap">
