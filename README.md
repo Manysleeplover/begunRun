@@ -33,4 +33,4 @@
 </ul>
 
 <h1>Roadmap</h1><br>
-![alt text](https://github.com/Manysleeplover/begunRun/blob/main/img-readme/roadmap.jpg)
+![alt text](main/img-readme/roadmap.jpg)
