@@ -31,5 +31,5 @@
 <img src="/img-readme/roadmap.jpg" width="100%" title="roadmap">
 
 <h1>Ссылки</h1>
-Доска в trello: <a href="https://trello.com/b/yG8G63a7/myrun">MyRun</a>
+Доска в trello: <a href="https://trello.com/b/yG8G63a7/myrun">MyRun</a> <br>
 <a href="https://docs.google.com/presentation/d/1NHzWN-nidfyw7AxA35C-3NbNORhYBQoZc1LcnX89of4/edit?usp=sharing">Презентация</a>
